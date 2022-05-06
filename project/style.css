@@ -1,0 +1,56 @@
+body{
+margin:0;
+padding:0;
+width:100%;
+width:100%
+height:100vh;
+background:url(retro-g38e97af7b_1920.jpg);
+background-size:cover;
+font-family:tahoma;
+}
+.nav{
+position:fixed;
+top:0;
+left:0;
+margin:0;
+padding:0;
+width:100%;
+height:80px;
+}
+.header{
+position:absolute;
+top:30%;
+left:21%;
+font-size:18px;
+background:rgba(255,255,255,0.9);
+padding:40px 310px;
+}
+.form{
+position:absolute;
+top:55%;
+left:21%
+
+}
+input{
+width:100%;
+margin:15px 3px;
+background:rgba(255,255,255,0.9);
+border:none;
+border-bottom:1px solid black;
+padding:20px;
+font-size:15px;
+}
+
+.form button[type="button"]
+{
+border-radius:4px;
+padding:20px 32px;
+border:none;
+outline:none;
+height:60px;
+background:rgba(255,255,255,0.9);
+color:black;
+fonr-size:22px;
+cursor:pointer;
+align:center;
+}
